@@ -9,7 +9,7 @@ Born in 2004
 
 ## Interest
 
-**Robotics · Computer Vision · ROS2 · AI System Integration**
+**Robotics · Computer Vision · AI System Integration**
 
 I am interested in building robotic systems that connect visual perception, 3D scene understanding, and motion planning.
 
@@ -39,4 +39,3 @@ https://github.com/tydfuyhf/4dof_fin_ray
 ## Contact
 
 **Email**: allen516@khu.ac.kr  
-**GitHub**: https://github.com/tydfuyhf
