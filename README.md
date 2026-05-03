@@ -15,7 +15,7 @@ I am interested in building robotic systems that connect visual perception, 3D s
 
 ---
 
-## Skills
+## Experience
  
 ROS2 · Computer Vision · YOLO · Grounded-SAM
 
