@@ -9,7 +9,7 @@ Born in 2004
 
 ## Interest
 
-**Robotics · Computer Vision · AI System Integration**
+**Robotics · Computer Vision · System Integration**
 
 I am interested in building robotic systems that connect visual perception, 3D scene understanding, and motion planning.
 
