@@ -9,7 +9,7 @@ Admitted in 2024
 
 ## Interest
 
-**Robotics · World Model · 3D Scene Understanding · Robot Manipulation**
+**Robotics · World Models · 3D Scene Understanding · Robot Manipulation**
 
 I am interested in building robotic systems that connect visual perception, 3D scene understanding, grasp prediction, and motion planning.
 
